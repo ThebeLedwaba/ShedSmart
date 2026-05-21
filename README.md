@@ -123,7 +123,7 @@ jupyter notebook LoadShedding_LSTM_Forecast.ipynb
 
 ## Author
 
-Thebe Ledwaba — Student ID: 219119007
+Thebe Ledwaba 
 
 ## License
 
